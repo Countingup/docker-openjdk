@@ -1,3 +1,3 @@
 FROM adoptopenjdk/openjdk8:alpine
 
-RUN apk add --no-cache --update git openssh-client bash lftp coreutils
+RUN apk add --no-cache --update git openssh-client bash lftp coreutils curl

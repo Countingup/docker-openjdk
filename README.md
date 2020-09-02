@@ -10,3 +10,4 @@ Includes:
  - git
  - ssh client
  - lftp
+ - curl
