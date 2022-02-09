@@ -14,5 +14,6 @@ Includes:
 
 ## Changelog
 
+ - 2022-02-09 -- Rebuild to update base image for security vulns
  - 2022-01-19 -- Rebuild to update base image for security vulns
  - 2021-11-06 -- Rebuild to update base image for security vulns
