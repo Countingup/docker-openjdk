@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2022-06-16 -- Rebuild to update dependencies for security vulns
  - 2022-04-13 -- Update busybox and git for security vulns
  - 2022-04-05 -- Update busybox for security vulns
  - 2022-03-23 -- Rebuild to update base image for security vulns
