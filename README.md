@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2022-07-19 -- Rebuild and upgrade libssl1.1 & libcrypto1.1 for security vulns
  - 2022-07-04 -- Rebuild to update dependencies for security vulns
  - 2022-06-16 -- Rebuild to update dependencies for security vulns
  - 2022-04-13 -- Update busybox and git for security vulns
