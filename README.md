@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2023-03-08 -- Rebuild to update base image for security vulnerability (curl/libcurl)
  - 2023-02-10 -- Rebuild to update base image for security vulnerability (libssl1.1)
  - 2022-11-02 -- Rebuild to update base image for security vulnerability (expat)
  - 2022-10-25 -- Rebuild to update base image for security vulns
