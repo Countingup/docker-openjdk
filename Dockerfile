@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk8:alpine
+FROM amazoncorretto:8-alpine-jdk
 
 LABEL org.opencontainers.image.source="https://github.com/Countingup/docker-openjdk"
 
