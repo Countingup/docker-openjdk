@@ -1,4 +1,4 @@
-FROM eclipse-temurin:8-jdk-alpine
+FROM adoptopenjdk/openjdk8:alpine
 
 LABEL org.opencontainers.image.source="https://github.com/Countingup/docker-openjdk"
 
