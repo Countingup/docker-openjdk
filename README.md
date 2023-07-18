@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2023-07-18 -- Rebuild to update base image for security vulnerability (openssl)
  - 2023-04-27 -- Rebuild to update base image for security vulnerability (git)
  - 2023-04-17 -- Rebuild to update base image for security vulnerability (curl)
  - 2023-04-05 -- Rebuild to update base image for security vulnerability (openssl)
