@@ -1,6 +1,6 @@
 # openjdk
 
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/countingup/openjdk.svg)](https://hub.docker.com/r/countingup/openjdk/builds/) ![Docker Image Size](https://img.shields.io/docker/image-size/countingup/openjdk/8)
+[![Build Status](https://countingup.semaphoreci.com/badges/docker-openjdk/branches/master.svg?style=shields)](https://countingup.semaphoreci.com/projects/docker-openjdk) ![Docker Image Size](https://img.shields.io/docker/image-size/countingup/openjdk/8)
 
 Minimal amazoncorretto:8-alpine-jdk base image with a few tools useful in CI jobs.
 
@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2023-10-13 -- Rebuild to update base image for security vulnerability (curl/nghttp2)
  - 2023-09-27 -- Rebuild to update base image for security vulnerability (curl)
  - 2023-07-26 -- Rebuild to update base image for security vulnerability (nghttp2/openssl)
  - 2023-07-18 -- Rebuild to update base image for security vulnerability (openssl)
