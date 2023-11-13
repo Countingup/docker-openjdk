@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2023-11-13 -- Upgrade libssl1.1 and libcrypto1.1 for security vulnerabilities
  - 2023-10-13 -- Rebuild to update base image for security vulnerability (curl/nghttp2)
  - 2023-09-27 -- Rebuild to update base image for security vulnerability (curl)
  - 2023-07-26 -- Rebuild to update base image for security vulnerability (nghttp2/openssl)
