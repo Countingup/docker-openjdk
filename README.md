@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2024-02-12 -- Rebuild to update base image for security vulnerability (expat)
  - 2024-01-31 -- Rebuild to update base image for security vulnerability (coreutils/openssl) & remove explicit update to libssl and libcrypto
  - 2024-01-04 -- Rebuild to update base image for security vulnerability (curl/openssh)
  - 2023-11-13 -- Upgrade libssl1.1 and libcrypto1.1 for security vulnerabilities
