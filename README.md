@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2024-07-09 -- Rebuild to update base image for security vulns (openssl)
  - 2024-05-28 -- Rebuild to update base image for security vulns (git)
  - 2024-03-28 -- Rebuild to update base image for security vulns (expat & c-ares)
  - 2024-02-12 -- Rebuild to update base image for security vulnerability (expat)
