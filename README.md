@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2025-01-17 -- Rebuild to update base image for security vulns (git)
  - 2024-11-08 -- Rebuild to update base image for security vulns (curl)
  - 2024-10-21 -- Rebuild to update base image for security vulns (openssl)
  - 2024-10-02 -- Rebuild to update base image for security vulns (curl)
