@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2026-02-05 -- Rebuild to update base image for security vulns (expat)
  - 2026-01-28 -- Rebuild to update base image for security vulns (openssl)
  - 2025-10-20 -- Rebuild to update base image for security vulns (pcre2)
  - 2025-03-18 -- Rebuild to update base image for security vulns (expat)
