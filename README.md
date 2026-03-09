@@ -1,16 +1,17 @@
 # openjdk
 
-[![Build Status](https://countingup.semaphoreci.com/badges/docker-openjdk/branches/master.svg?style=shields)](https://countingup.semaphoreci.com/projects/docker-openjdk) ![Docker Image Size](https://img.shields.io/docker/image-size/countingup/openjdk/8)
+[![Build Status](https://countingup.semaphoreci.com/badges/docker-openjdk/branches/master.svg?style=shields)](https://countingup.semaphoreci.com/projects/docker-openjdk) ![Docker Image Size](https://img.shields.io/docker/image-size/countingup/openjdk/8?label=image%20size:%208)
 
 Minimal amazoncorretto:8-alpine-jdk base image with a few tools useful in CI jobs.
 
 Includes:
- - bash
- - coreutils
- - git
- - ssh client
- - lftp
- - curl
+- git
+- openssh-client
+- bash
+- lftp
+- coreutils
+- curl
+- busybox
 
 ## Changelog
 
