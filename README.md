@@ -8,7 +8,6 @@ Includes:
 - git
 - openssh-client
 - bash
-- lftp
 - coreutils
 - curl
 - busybox
