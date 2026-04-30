@@ -14,6 +14,7 @@ Includes:
 
 ## Changelog
 
+ - 2026-04-30 -- Rebuild to update base image for security vulns (nghttp2)
  - 2026-03-23 -- Rebuild to update base image for security vulns (expat)
  - 2026-02-05 -- Rebuild to update base image for security vulns (expat)
  - 2026-01-28 -- Rebuild to update base image for security vulns (openssl)
